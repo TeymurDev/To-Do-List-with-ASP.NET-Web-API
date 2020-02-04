@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\bin\Debug\netcoreapp2.1\DailyTasksApi.deps.json
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\bin\Debug\netcoreapp2.1\DailyTasksApi.runtimeconfig.json
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\bin\Debug\netcoreapp2.1\DailyTasksApi.runtimeconfig.dev.json
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\bin\Debug\netcoreapp2.1\DailyTasksApi.dll
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\bin\Debug\netcoreapp2.1\DailyTasksApi.pdb
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.AssemblyInfo.cs
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.dll
+C:\Users\User\source\repos\DailyTasksApi\DailyTasksApi\obj\Debug\netcoreapp2.1\DailyTasksApi.pdb
